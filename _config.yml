@@ -1,0 +1,26 @@
+# Dependencies
+markdown:         redcarpet
+highlighter:      pygments
+
+# Permalinks
+permalink:        pretty
+# relative_permalinks: true
+
+# Setup
+title:            Ashish Singh
+tagline:          '@s-ashish'
+description:      'Technologist and engineer'
+url:              https://s-ashish.github.io
+baseurl:          /
+
+author:
+  name:           'Ashish Singh'
+  url:            https://s-ashish.github.io
+
+# paginate:         5
+
+# Custom vars
+version:          2.1.0
+
+github:
+  repo:           https://s-ashish.github.io/s-ashish
